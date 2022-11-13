@@ -1,4 +1,3 @@
-# import RPi.GPIO as GPIO
 from database import database
 from dotenv import load_dotenv
 from flask import Flask, jsonify, request, url_for, json
