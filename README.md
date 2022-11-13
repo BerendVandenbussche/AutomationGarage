@@ -1,0 +1,2 @@
+# AutomationGarage
+Refactored smart garage
